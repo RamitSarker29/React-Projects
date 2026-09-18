@@ -1,4 +1,4 @@
-# 👤 React Profile Cards
+# 👤Profile Cards
 
 A simple React project that dynamically generates user profile cards using an array of objects and reusable components.
 
