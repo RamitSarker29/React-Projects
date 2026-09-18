@@ -6,7 +6,7 @@ The project focuses on a clean, component-based layout with a hero section, navi
 
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./UI_Project.png)
 
 ## ✨ Features
 
