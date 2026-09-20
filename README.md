@@ -12,8 +12,9 @@ The focus is on understanding concepts by building rather than only following tu
 
 | Project | Description |
 |---|---|
-| 👤 Profile Cards | Dynamic profile cards created using reusable components, props, arrays, and `map()` |
+| 👤 Card Project | Dynamic profile cards created using reusable components, props, arrays, and `map()` |
 | 👥 UI Project | Modern customer segmentation UI built with reusable React components and dynamic data |
+| 🔢 Counter Project | Interactive counter application built using React state, event handling, and reusable UI elements |
 | 🚧 More Projects Coming Soon | More React projects will be added as I continue learning |
 
 ## 🎯 Goals
@@ -28,10 +29,12 @@ The focus is on understanding concepts by building rather than only following tu
 
 - Breaking UI into reusable components
 - Passing data using props
+- Managing state with `useState`
+- Handling user interactions and events
 - Rendering dynamic data
 - Working with arrays and objects in React
 - Using `map()` for dynamic rendering
-- Styling interfaces with Tailwind CSS
+- Styling interfaces with CSS and Tailwind CSS
 - Understanding how React applications are structured
 - Building projects independently
 
