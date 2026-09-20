@@ -6,6 +6,11 @@ A simple React counter application that allows users to increase, decrease, and 
 
 The goal of this project is to practice **React state management and event handling** by building a simple interactive counter.
 
+## 📸 Screenshot
+
+![React Counter](./ss2.png)
+![React Counter](./ss1.png)
+
 ## ✨ Features
 
 - Increase the counter value
@@ -32,12 +37,6 @@ The goal of this project is to practice **React state management and event handl
 - How to handle button click events
 - How React re-renders the UI when state changes
 - How to style a simple React application with CSS
-
-## 📸 Screenshot
-
-![React Counter](./ss1.png)
-![React Counter](./ss2.png)
-
 
 ## 📌 Note
 
