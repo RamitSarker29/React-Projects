@@ -6,6 +6,10 @@ A simple React project that dynamically generates user profile cards using an ar
 
 The goal of this project is to practice **React components, props, arrays, and `map()`** by creating multiple profile cards from user data.
 
+## 📸 Screenshot
+
+![React Profile Cards](./react_card_project.png)
+
 ## ✨ Features
 
 - Multiple user profile cards
@@ -35,10 +39,6 @@ The goal of this project is to practice **React components, props, arrays, and `
 - How to use `map()` to generate multiple components
 - How to structure data using arrays of objects
 - How a parent component passes data to a child component
-
-## 📸 Screenshot
-
-![React Profile Cards](./react_card_project.png)
 
 ## 📌 Note
 
